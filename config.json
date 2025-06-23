@@ -1,0 +1,16 @@
+{
+    "opacity": 0.75,
+    "aspect_ratio": 1.7777777777777777,
+    "default_url": "https://www.bilibili.com",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "recent_url": "",
+    "MOD": "Alt",
+    "lock_shortcuts_VK": "F12",
+    "start_pause_VK": "`",
+    "time_go_VK": "F2",
+    "time_back_VK": "F1",
+    "default_window_width": 800,
+    "default_window_length": 450,
+    "default_window_x": 100,
+    "default_window_y": 100
+}
