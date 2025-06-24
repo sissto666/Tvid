@@ -1,3 +1,6 @@
+# 效果图
+
+![](https://github.com/sissto666/Tvid/raw/main/images/renderings.png)
 
 # tips
 
